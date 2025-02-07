@@ -22,7 +22,7 @@ type Kingdom struct {
 
 type Resources struct {
 	Gold   int
-	Food   int
+	Rice   int
 	People int
 }
 
